@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Musa</h1>
 <h3 align="center">Software developer from North West UK, Preston</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxhmu54" alt="xxhmu54" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-musa" alt="xxhmu54" /></a> </p>
 
 - 🔭 I’m currently working on [100 hour project](https://github.com/XxHMu54/Gymness)
 
