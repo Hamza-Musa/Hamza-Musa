@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Musa</h1>
 <h3 align="center">Software developer from North West UK, Preston</h3>
 
-- 🔭 I’m currently working on [100 hour project](https://github.com/XxHMu54/Gymness)
+- 🔭 I’m currently working on [100 hour project](https://github.com/hamza-musa/Gymness)
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://xxhmu54.github.io/Portfolio-website/](https://xxhmu54.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://xxhmu54.github.io/Portfolio-website/](https://hamza-musa.github.io/Portfolio-website/)
 
 - 💬 Ask me about **Sofware development**
 
