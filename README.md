@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI**, UX UI & Cloud computing 
 
-- 👨‍💻 All of my projects are available at [https://xxhmu54.github.io/Portfolio-website/](https://hamza-musa.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://hamza-musa.github.io/Portfolio-website/](https://hamza-musa.github.io/Portfolio-website/)
 
 - 💬 Ask me about **Sofware development**
 
