@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [100 hour project](https://github.com/hamza-musa/Gymness)
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI**, UX UI & Cloud computing 
 
 - 👨‍💻 All of my projects are available at [https://xxhmu54.github.io/Portfolio-website/](https://hamza-musa.github.io/Portfolio-website/)
 
