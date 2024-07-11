@@ -46,5 +46,12 @@
      
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hmusa1202"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmusa1202" /></a><a href="https://ko-fi.com/hmusa1202"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hmusa1202" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hmusa1202"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmusa1202" /></a><a href="https://ko-fi.com/hmusa1202"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hmusa1202" /></a></p><br><be>
 
+
+<style>
+  body {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+</style>
