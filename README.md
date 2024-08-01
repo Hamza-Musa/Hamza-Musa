@@ -11,12 +11,11 @@
   Hi, I'm Hamza Musa, a Software developer from the North West of the UK, 🇬🇧  Preston 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ 
   <br />
   <br />
-  🎓 Currently at 100devs
+  👨‍💻 Currently at 100devs
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
-  <br />
+
 </p>
 
 <!-- social handles -->
