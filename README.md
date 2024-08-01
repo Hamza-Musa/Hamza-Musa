@@ -1,10 +1,7 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
-
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There+👋;I'm+Hamza+Musa+ :);&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There+👋;I'm+Hamza+Musa+:);&center=true&size=30">
   </a>
 </h1>
 
@@ -27,7 +24,7 @@
   <!-- twitter -->
   <a href="https://twitter.com/hamzamdev" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
-  <a href="mailto:hmusa1202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> - 📫 How to reach me **hmusa1202@gmail.com**
+  <a href="mailto:hmusa1202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/hamza-musa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -56,22 +53,6 @@
 </p>
 <br />
 
-<!-- deployment -->
-<h3 align="center">Deployment</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-        </picture>
-  </a>
-<br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
-</a>
-</p>
-<hr />
 
 <!-- snake graph -->
 <div align="center">
@@ -87,47 +68,6 @@
   <br />
 </div>
 
-  <hr />
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- space -->
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
-<!-- second row -->
-  <div align=center>
-  <!-- language stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-  <br />
-  <br />
-  <br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
-    </picture>
-  </a>
-</p>
-
-<hr />
-
-
-<!-- spaces -->
 
 <br /><br /><br /><br /><br /><br />
 
