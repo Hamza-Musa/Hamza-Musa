@@ -69,7 +69,7 @@
 </div>
 
 
-<h2 align="center">Support Me</h2>
+
 <h4 align="center">Support Me</h4>
 <p><a href="https://www.buymeacoffee.com/hmusa1202"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmusa1202" /></a><a href="https://ko-fi.com/hmusa1202"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hmusa1202" /></a></p><br><be>
 
