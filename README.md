@@ -8,7 +8,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Hamza Musa, a Software developer from the North West of the UK, 🇬🇧  Preston 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ 
+  Hi, I'm Hamza Musa, a Software developer from the North West of the UK, 🇬🇧  Preston 💻
   <br />
   <br />
   👨‍💻 Currently at 100devs
